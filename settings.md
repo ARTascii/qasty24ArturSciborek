@@ -6,3 +6,5 @@
 6. Check for grammatical accuracy.
 7. The minimum length of password symbols is 8 characters.
 8. The user is logged out and redirected to the home page as a guest.
+
+

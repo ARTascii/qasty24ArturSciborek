@@ -1,0 +1,23 @@
+[33mcommit 4007f02f3d1ce7cbda655c77ebd5dbe597bac38f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_test_settings[m[33m)[m
+Author: artur.sciborek@gmail.com <artur.sciborek@gmail.com>
+Date:   Tue Mar 19 09:22:20 2024 +0100
+
+    Add initial settings.md file
+
+[33mcommit f53895dcdb31124c83c69f74a8ff352d4adb044e[m[33m ([m[1;32mmain[m[33m)[m
+Author: artur.sciborek@gmail.com <artur.sciborek@gmail.com>
+Date:   Mon Mar 18 09:32:05 2024 +0100
+
+    Added standard HTML page tags
+
+[33mcommit 659a003272cd3d1704b9aa17f4f390575513db00[m
+Author: artur.sciborek@gmail.com <artur.sciborek@gmail.com>
+Date:   Mon Mar 18 09:23:43 2024 +0100
+
+    Changes for a and b
+
+[33mcommit 4e48d6eb62f5967d5f31815da7e78d34610489f0[m
+Author: artur.sciborek@gmail.com <artur.sciborek@gmail.com>
+Date:   Mon Mar 18 09:07:59 2024 +0100
+
+    Initial Commit
